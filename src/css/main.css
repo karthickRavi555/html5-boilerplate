@@ -9,7 +9,7 @@
    ========================================================================== */
 
 html {
-    color: #222;
+    color: blue;
     font-size: 1em;
     line-height: 1.4;
 }
@@ -25,7 +25,7 @@ html {
  */
 
 ::selection {
-    background: #b3d4fc;
+    background: blue;
     text-shadow: none;
 }
 
